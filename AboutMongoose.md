@@ -1,6 +1,6 @@
 atlasCloud mongodb --> compass import -->database -->schema -->model -->collection-->document
 
-
+//Mongoose is a layer between javascript and mongodb .it just tell to mongodb 
  //create a schema -> blueprint of model like functionalities of users ,tweet e.g. - email,password
 
 
